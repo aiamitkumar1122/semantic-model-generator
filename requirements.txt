@@ -1,2 +1,2 @@
-pip install .
-pip install -e ".[looker]"
+install .
+install -e ".[looker]"
