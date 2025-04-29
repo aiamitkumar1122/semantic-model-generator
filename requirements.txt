@@ -1,2 +1,2 @@
-install .
-install -e ".[looker]"
+.
+-e ".[looker]"
